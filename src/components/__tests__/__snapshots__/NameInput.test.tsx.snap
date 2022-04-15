@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NameInput/> should render NameInput 1`] = `
+<input
+  className="sc-bczRLJ gBGFYF"
+/>
+`;
