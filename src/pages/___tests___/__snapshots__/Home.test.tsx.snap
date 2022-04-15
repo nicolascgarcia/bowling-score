@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home/> should render Home 1`] = `
+<div
+  className="sc-bczRLJ hKpfjC"
+  display="flex"
+>
+  <div
+    className="sc-bczRLJ jRjhVV"
+    width={
+      Array [
+        "75vw",
+        "50vw",
+        "50vw",
+        "30vw",
+      ]
+    }
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="sc-bczRLJ hQWGGy"
+        display="flex"
+      >
+        <input
+          aria-label="name-input"
+          className="sc-gsnTZi hTKsgn"
+          onChange={[Function]}
+          placeholder="Add the player's name"
+          required={true}
+          type="text"
+          value=""
+        />
+        <div
+          className="sc-bczRLJ lkdJUz"
+        >
+          <button
+            className="sc-dkzDqf jAEYpy"
+            fontSize={28}
+            type="submit"
+          >
+            +
+          </button>
+        </div>
+      </div>
+    </form>
+    <div
+      className="sc-bczRLJ kAvkCa"
+    />
+    <div
+      className="sc-bczRLJ"
+    >
+      <button
+        className="sc-dkzDqf kyfNmV"
+        type="button"
+        width="100%"
+      >
+        start game
+      </button>
+    </div>
+  </div>
+</div>
+`;
