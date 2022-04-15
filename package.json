@@ -22,7 +22,7 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"eject": "jest",
+		"eject": "react-scripts eject",
 		"check-types": "tsc --pretty --noEmit",
 		"check-format": "prettier --check .",
 		"check-lint": "eslint . --ext ts --ext tsx --ext js",
