@@ -1,9 +1,34 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Score/> should render Score 1`] = `
-<div>
-  <h1>
-    Score
-  </h1>
+<div
+  className="sc-bczRLJ jPKmaV"
+  display="flex"
+>
+  <div
+    className="sc-bczRLJ cHjEgx"
+    display="flex"
+    height="50vh"
+    overflow="auto"
+  />
+  <div
+    className="sc-bczRLJ iGTsrB"
+    display="flex"
+  >
+    <h1
+      style={
+        Object {
+          "color": "#fff",
+          "textAlign": "center",
+        }
+      }
+    >
+      Select the numbers of pins knocked down
+    </h1>
+    <div
+      className="sc-bczRLJ eTDOLp"
+      display="flex"
+    />
+  </div>
 </div>
 `;

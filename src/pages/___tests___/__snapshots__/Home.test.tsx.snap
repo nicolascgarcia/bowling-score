@@ -2,11 +2,11 @@
 
 exports[`<Home/> should render Home 1`] = `
 <div
-  className="sc-bczRLJ hKpfjC"
+  className="sc-bczRLJ ijiIxe"
   display="flex"
 >
   <div
-    className="sc-bczRLJ jRjhVV"
+    className="sc-bczRLJ esRydr"
     width={
       Array [
         "75vw",
@@ -20,7 +20,7 @@ exports[`<Home/> should render Home 1`] = `
       onSubmit={[Function]}
     >
       <div
-        className="sc-bczRLJ hQWGGy"
+        className="sc-bczRLJ btZVNS"
         display="flex"
       >
         <input
@@ -33,7 +33,7 @@ exports[`<Home/> should render Home 1`] = `
           value=""
         />
         <div
-          className="sc-bczRLJ lkdJUz"
+          className="sc-bczRLJ jIAPur"
         >
           <button
             className="sc-dkzDqf jAEYpy"
@@ -46,13 +46,14 @@ exports[`<Home/> should render Home 1`] = `
       </div>
     </form>
     <div
-      className="sc-bczRLJ kAvkCa"
+      className="sc-bczRLJ jFDCya"
     />
     <div
-      className="sc-bczRLJ"
+      className="sc-bczRLJ cBNlSK"
     >
       <button
         className="sc-dkzDqf kyfNmV"
+        onClick={[Function]}
         type="button"
         width="100%"
       >
