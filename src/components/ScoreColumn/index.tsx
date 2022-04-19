@@ -94,7 +94,12 @@ export default function ScoreColumn({
 			<Container flex={1} display='flex' flexDirection='column'>
 				<Container display='flex' flexWrap='nowrap'>
 					<Container width={1 / 2}>
-						<h2 style={{ textAlign: 'center', color: '#fff' }}>{firstShot}</h2>
+						<h2
+							style={{ textAlign: 'center', color: '#fff' }}
+							aria-label={`firstshot-user${userIndex}-score${scoreIndex}`}
+						>
+							{firstShot}
+						</h2>
 					</Container>
 					<Container
 						width={1 / 2}
@@ -108,7 +113,10 @@ export default function ScoreColumn({
 						borderLeftStyle='solid'
 						borderBottomLeftRadius='10px'
 					>
-						<h2 style={{ textAlign: 'center', color: '#fff' }}>
+						<h2
+							aria-label={`secondshot-user${userIndex}-score${scoreIndex}`}
+							style={{ textAlign: 'center', color: '#fff' }}
+						>
 							{handleSecondShot}
 						</h2>
 						{(thirdShot || thirdShot === 0) && (
@@ -126,7 +134,12 @@ export default function ScoreColumn({
 					justifyContent='center'
 					alignItems='center'
 				>
-					<h2 style={{ color: '#fff' }}>{score}</h2>
+					<h2
+						aria-label={`score-user${userIndex}-score${scoreIndex}`}
+						style={{ color: '#fff' }}
+					>
+						{score}
+					</h2>
 				</Container>
 			</Container>
 		</Container>
