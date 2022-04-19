@@ -1,0 +1,890 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PlayerRounds/> should render PlayerRounds 1`] = `
+<div
+  className="sc-bczRLJ dgolPA"
+  display="flex"
+>
+  <div
+    className="sc-bczRLJ gxVZDJ"
+    display="flex"
+    width={1}
+  >
+    <img
+      alt="Nicolas"
+      height={50}
+      src=""
+      width={50}
+    />
+    <div
+      className="sc-bczRLJ kvQOPU"
+    >
+      <h1
+        className="sc-gsnTZi gZIovQ"
+      >
+        Nicolas
+      </h1>
+    </div>
+  </div>
+  <div
+    className="sc-bczRLJ iOidDR"
+    display="flex"
+  >
+    <div
+      className="sc-bczRLJ jkldZp"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          1
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score0"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score0"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score0"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ kDsxdZ"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          2
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score1"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score1"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score1"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ kDsxdZ"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          3
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score2"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score2"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score2"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ kDsxdZ"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          4
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score3"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score3"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score3"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ kDsxdZ"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          5
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score4"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score4"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score4"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ kDsxdZ"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          6
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score5"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score5"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score5"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ kDsxdZ"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          7
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score6"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score6"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score6"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ kDsxdZ"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          8
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score7"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score7"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score7"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ kDsxdZ"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          9
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score8"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score8"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score8"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ kDsxdZ"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ jAFwIZ"
+        display="flex"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          10
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ gfvHoF"
+        display="flex"
+      >
+        <div
+          className="sc-bczRLJ heaOkQ"
+          display="flex"
+        >
+          <div
+            className="sc-bczRLJ eqsrV"
+            width={0.5}
+          >
+            <h2
+              aria-label="firstshot-user0-score9"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+          <div
+            className="sc-bczRLJ fIFoXR"
+            display="flex"
+            width={0.5}
+          >
+            <h2
+              aria-label="secondshot-user0-score9"
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+            <h2
+              style={
+                Object {
+                  "color": "#fff",
+                  "textAlign": "center",
+                }
+              }
+            >
+              0
+            </h2>
+          </div>
+        </div>
+        <div
+          className="sc-bczRLJ dbmcqy"
+          display="flex"
+          width={1}
+        >
+          <h2
+            aria-label="score-user0-score9"
+            style={
+              Object {
+                "color": "#fff",
+              }
+            }
+          >
+            0
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-bczRLJ bMJQTi"
+      display="flex"
+    >
+      <div
+        className="sc-bczRLJ dXJsed"
+        width={1}
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          HDCP SCORE
+        </h1>
+      </div>
+      <div
+        className="sc-bczRLJ cPyNVh"
+        display="flex"
+      >
+        <h1
+          style={
+            Object {
+              "color": "#fff",
+            }
+          }
+        >
+          0
+        </h1>
+      </div>
+    </div>
+  </div>
+</div>
+`;
