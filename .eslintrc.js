@@ -30,5 +30,7 @@ module.exports = {
 		'jest/prefer-to-have-length': 'warn',
 		'jest/valid-expect': 'error',
 		'react/react-in-jsx-scope': 'off',
+		'no-unused-vars': 'off',
+		'@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
 	},
 };
