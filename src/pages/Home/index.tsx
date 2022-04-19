@@ -1,14 +1,16 @@
 import { ChangeEvent, FormEvent, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { useGame } from '../../contexts/GameContext';
 import { Container, NameInput, Button, UserName } from '../../components';
-
-type User = {
-	photo: string;
-	name: string;
-};
+import { User } from '../../contexts/GameContext/gameContext.types';
 
 export default function Home() {
+	const navigate = useNavigate();
+
 	const [userName, setUserName] = useState<string>('');
 	const [users, setUsers] = useState<User[]>([]);
+
+	const { addPlayers } = useGame();
 
 	const removeUser = (index: number): void => {
 		const currentUsers = [...users];
@@ -30,6 +32,11 @@ export default function Home() {
 
 		setUsers([...users, user]);
 		setUserName('');
+	};
+
+	const startGame = () => {
+		addPlayers(users);
+		navigate('/score');
 	};
 
 	return (
@@ -88,7 +95,7 @@ export default function Home() {
 					))}
 				</Container>
 				<Container>
-					<Button type='button' width='100%'>
+					<Button type='button' width='100%' onClick={startGame}>
 						start game
 					</Button>
 				</Container>

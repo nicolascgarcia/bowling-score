@@ -2,6 +2,6 @@
 
 exports[`<Container/> should render Container 1`] = `
 <div
-  className="sc-bczRLJ"
+  className="sc-bczRLJ cBNlSK"
 />
 `;
